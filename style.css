@@ -17,7 +17,7 @@ ul {
     gap: 20px;
 }
 
-li {
+.box {
     list-style-type: none;
     background-color: #1389B2;
     width: 100px;
@@ -27,3 +27,14 @@ li {
     align-items: center;
 }
 
+.box3 {
+    background-color: #FFD166;
+}
+
+.box5 {
+    background-color: #0BD6A1;
+}
+
+.box15 {
+    background-color: #F0466F;
+}
